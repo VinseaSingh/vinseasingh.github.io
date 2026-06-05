@@ -7,8 +7,7 @@ first_name: Vinsea
 middle_name: A V
 last_name: Singh
 email: vinseasingh@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: vinseasingh@gmail.com, vinsea.b18@nbrc.res.in
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -40,7 +39,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: VinseaSingh # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: VinseaAv # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: vinseaavsingh # your LinkedIn user name
 scholar_userid: yXxw0-YAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: 0000-0002-0466-6534 # your ORCID ID
@@ -194,7 +193,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
