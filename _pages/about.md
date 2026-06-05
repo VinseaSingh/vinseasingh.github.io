@@ -2,27 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, <a href='https://cbdlnbrc.weebly.com/'>Cognitive Brain Dynamics Lab (CBDL)</a>, <a href='https://www.nbrc.ac.in/newweb/'>National Brain Research Centre (NBRC)</a>, India
+subtitle: PhD Candidate | NBRC, India
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
+  address: ""
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I strive to understand the World within and around me. 
+I am a PhD Candidate (soon to be submitting my thesis!) at <a href='https://www.nbrc.ac.in/newweb/'>National Brain Research Centre (NBRC)</a>, India. My research focuses on understanding how ongoing brain states (or prestimulus activity) shape conscious multisensory perception. In my doctoral work, I have identified EEG and iEEG prestimulus signatures that predict upcoming stimulus perception. 
 
-As a **scientist**, I use birds, mainly shorebirds, to explore 
-- <a href='https://www.nature.com/articles/s41598-019-41223-z'>rhythms of parental care</a> and <a href='https://doi.org/10.3389/fevo.2019.00093'>how such rhythms emerge</a>, 
--  <a href='https://www.nature.com/articles/nature20563'>within- and between-species differences in rhythmicities</a> and what may drive such differences, as well as
-- <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13662'>distribution and evolution of traits across the globe</a>
+Currently, at <a href='https://cbdlnbrc.weebly.com/'>Cognitive Brain Dynamics Lab (CBDL)</a>, under the supervision of <a href='https://www.nbrc.ac.in/newweb/research/groups/arpan-banerjee'>Dr. Arpan Banerjee</a> & <a href='https://dipanjanr.com/'>Dr. Dipanjan Roy</a>, I am also interested in designing mechanistic biophysical models to explain prestimulus brain dynamics in the context of sensory perception. 
 
-**Currently**, I am investigating global similarities in shorebird parental care, global differences in uniparental incubation of shorebirds, biorhythms of red knots and drivers of global variation in the song of songbirds.  
-
-I am an **associate professor** at   [Czech University of Life Sciences Prague](https://www.czu.cz/en) and **collaborate** with [scientists and institutions across the globe](https://doi.org/10.1126/science.aaw8529). 
-
-I am a regular contributor to <a href='https://www.inaturalist.org/people/1583651'>iNaturalist</a>. 
+Additionally, I am interested in understanding how whole-brain structural and functional connectivity dynamics change across healthy aging and neurodegenerative disorders. As part of a large-scale 3T MRI <a href='https://theprint.in/ground-reports/nbrc-dementia-research-rural-north-indians/2745675/'>study</a>, I investigate these questions in a cohort of older adults from rural North India spanning healthy aging, mild cognitive impairment (MCI), and dementia.
