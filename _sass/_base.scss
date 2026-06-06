@@ -537,6 +537,12 @@ footer.sticky-bottom {
           }
         }
       }
+      .periodical {
+        color: var(--global-text-color);
+        font-size: 0.9rem;
+        margin-top: 0.25rem;
+        font-style: italic;
+      }
       .links {
         a.btn {
           color: var(--global-text-color);
