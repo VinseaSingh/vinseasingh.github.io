@@ -3,6 +3,12 @@
   contents:
     - name: Full Name
       value: Vinsea A V Singh
+    - name: Label
+      value: PhD Candidate
+    - name: Subject
+      value: Cognitive & Computational Neuroscience
+    - name: email
+      value: vinseasingh@gmail.com, vinsea.b18@nbrc.res.in
 
 #- title: Experience
   #type: time_table
