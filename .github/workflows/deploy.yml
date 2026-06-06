@@ -39,6 +39,7 @@ on:
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**.scss"
       - "**/*.md"
       - "**.yml"
       - "Gemfile"
