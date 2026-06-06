@@ -5,8 +5,8 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [science, other fun]
-horizontal: false
+display_categories: [neuroscience, animal behavior]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
