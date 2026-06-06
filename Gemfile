@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank', '~> 2.0'
     gem 'jekyll-twitter-plugin', '~> 2.1'
     gem 'jemoji', '~> 0.13'
-    gem 'mini_racer', '~> 0.6'
+    gem 'mini_racer', '~> 0.8'
     gem 'unicode_utils', '~> 1.4'
     gem 'webrick', '~> 1.7'
 end
