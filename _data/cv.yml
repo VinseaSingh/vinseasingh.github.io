@@ -30,37 +30,37 @@
       institution: St. Xavier's College, Mumbai
       year: 2014 - 2017
 
-- title: Invited Talks
-  type: time_table
-  contents:
-    - title: Neuroscience: the past, present and the future
-      institution: Birla Balika Vidyapeeth (my alma mater), Pilani, Rajasthan, India (on National Science Day).
-      year: March, 2024
-    - title: Role of prestimulus activity in characterizing variability in multisensory perception
-      institution: CogSci Seminar Series, hosted by Dr. Vishnu Sreekumar, International Institute of Information Technology (IIIT) Hyderabad, India.
-      year: February, 2022
-    - title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
-      institution: 7th Annual Conference of Cognitive Sciences (ACCS7) 2021, Online
-      year: December, 2021
+#- title: Invited Talks
+  #type: time_table
+  #contents:
+    #- title: Neuroscience: the past, present and the future
+      #institution: Birla Balika Vidyapeeth (my alma mater), Pilani, Rajasthan, India (on National Science Day).
+      #year: March, 2024
+    #- title: Role of prestimulus activity in characterizing variability in multisensory perception
+      #institution: CogSci Seminar Series, hosted by Dr. Vishnu Sreekumar, International Institute of Information Technology (IIIT) Hyderabad, India.
+      #year: February, 2022
+    #- title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
+      #institution: 7th Annual Conference of Cognitive Sciences (ACCS7) 2021, Online
+      #year: December, 2021
 
-- title: Conferences
-  type: time_table
-  contents:
-    - title: Prestimulus Whole-Brain Functional Connectivity Underpins McGurk Perception
-      institution: OHBM 2025 Brisbane, Australia (Won a Travel Award)
-      year: 2025
-    - title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
-      institution: Cognitive Science Society (CogSci) 2024, Rotterdam, Netherlands
-      year: 2024
-    - title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
-      institution: Cognitive Neuroscience Society (CNS) 2024, Toronto, Canada (Won a Travel Award)
-      year: 2024
-    - title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
-      institution: OHBM 2025 Montreal, Canada (Won a Travel Award)
-      year: 2023
-    - title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
-      institution: 9th Annual Conference of Cognitive Sciences (ACCS9) 2021, New Delhi, India
-      year: 2021
-    - title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
-      institution: Bernstein Conference 2020, Online
-      year: 2020
+#- title: Conferences
+  #type: time_table
+  #contents:
+    #- title: Prestimulus Whole-Brain Functional Connectivity Underpins McGurk Perception
+      #institution: OHBM 2025 Brisbane, Australia (Won a Travel Award)
+      #year: 2025
+    #- title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
+      #institution: Cognitive Science Society (CogSci) 2024, Rotterdam, Netherlands
+      #year: 2024
+    #- title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
+      #institution: Cognitive Neuroscience Society (CNS) 2024, Toronto, Canada (Won a Travel Award)
+      #year: 2024
+    #- title: Predicting Response to McGurk Effect Based on Periodic and Aperiodic Prestimulus EEG Activity
+      #institution: OHBM 2025 Montreal, Canada (Won a Travel Award)
+      #year: 2023
+    #- title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
+      #institution: 9th Annual Conference of Cognitive Sciences (ACCS9) 2021, New Delhi, India
+      #year: 2021
+    #- title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
+      #institution: Bernstein Conference 2020, Online
+      #year: 2020
