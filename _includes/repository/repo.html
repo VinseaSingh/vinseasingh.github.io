@@ -7,11 +7,8 @@
 {% endif %}
 
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
-    <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url.first }}&repo={{ repo_url.last }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}">
-    <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url.first }}&repo={{ repo_url.last }}&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}">
-  </a>
-  <a href="https://github.com/{{ include.repository }}" class="repo-icon">
-    <i class="fab fa-github"></i>
+  <a href="https://github.com/{{ include.repository }}" class="repo-link">
+    <i class="fab fa-github repo-icon"></i>
+    <span class="repo-name">{{ include.repository }}</span>
   </a>
 </div>
