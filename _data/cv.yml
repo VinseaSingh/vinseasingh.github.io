@@ -7,15 +7,15 @@
       value: PhD Candidate
     - name: Subject
       value: Cognitive & Computational Neuroscience
-    - name: email
+    - name: email(s)
       value: vinseasingh@gmail.com, vinsea.b18@nbrc.res.in
 
-#- title: Experience
-  #type: time_table
-  #contents:
-    #- title: 
-      #institution: 
-      #year: 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Research Consultant 
+      institution: Moment (now called The Biohackers Co.),
+      year: April 2022 - December 2022
 
 - title: Education
   type: time_table
@@ -64,3 +64,19 @@
     - title: Characterizing Variability of Audiovisual Speech Perception Based on Prestimulus Oscillatory Features of Electrophysiological Brain Signals
       institution: Bernstein Conference 2020, Online
       year: 2020
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: NBRC Travel Grant
+      institution: OHBM 2025 Brisbane, Australia 
+      year: 2025
+    - title: EMBO Travel Grant
+      institution: Barcelona Summer School for Advanced Modeling of Behavior (BAMB!) 
+      year: 2024
+    - title: Journal of Cognitive Neuroscience (JoCN) Travel Award
+      institution: Cognitive Neuroscience Society (CNS), Toronto, Canada
+      year: 2024
+    - title: OHBM 2023 Travel Award
+      institution: OHBM 2023 Montreal, Canada
+      year: 2023
