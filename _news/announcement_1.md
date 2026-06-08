@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-07-31 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Got my master's in neuroscience from the National Brain Research Centre (NBRC)
