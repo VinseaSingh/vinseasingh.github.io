@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /news/
-title: News
+title: news
 nav: true
 nav_order: 4
 ---
@@ -16,7 +16,7 @@ nav_order: 4
   <article>
     <div class="news">
       {% if site.news != blank -%}
-        {% assign news = site.news %}
+        {% assign news = site.news | reverse %}
         <div class="table-responsive">
           <table class="table table-sm table-borderless">
           {% for item in news %}
