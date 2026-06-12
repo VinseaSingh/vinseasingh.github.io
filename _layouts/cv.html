@@ -22,7 +22,7 @@ layout: default
           <ul class="nav flex-column font-weight-medium">
             {% for entry in site.data.cv %}
               <li class="nav-item mb-2">
-                <a class="nav-link p-0 text-muted" href="#{{ entry.title | slugify }}">{{ entry.title }}</a>
+                <a class="nav-link p-0" href="#{{ entry.title | slugify }}">{{ entry.title }}</a>
               </li>
             {% endfor %}
           </ul>
