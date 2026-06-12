@@ -35,11 +35,11 @@ layout: default
          {{ content }}
       </div>
       {% if page.news -%}
-      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+      <h2>news</h2>
       {% include news.html %}
       {% if site.news_limit < site.news.size %}
       <div class="text-right mt-2">
-         <a href="{{ '/news/' | relative_url }}" class="text-muted font-italic" style="font-size: 0.95rem;">more news...</a>
+         <a href="{{ '/news/' | relative_url }}" class="text-dark font-weight-bold font-italic" style="font-size: 0.95rem;">more news...</a>
       </div>
       {% endif %}
       {%- endif %}
