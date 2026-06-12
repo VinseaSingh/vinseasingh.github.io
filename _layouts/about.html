@@ -38,7 +38,7 @@ layout: default
       {% include news.html %}
       {% if site.news_limit < site.news.size %}
       <div class="text-right mt-2">
-         <a href="{{ '/news/' | relative_url }}" class="text-dark font-weight-bold font-italic" style="font-size: 0.95rem; color: var(--global-text-color);">more news...</a>
+         <a href="{{ '/news/' | relative_url }}" class="text-dark font-weight-bold font-italic" style="font-size: 0.95rem; color: var(--global-text-color) !important;">more news...</a>
       </div>
       {% endif %}
       {%- endif %}
