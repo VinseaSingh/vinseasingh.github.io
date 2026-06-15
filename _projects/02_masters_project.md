@@ -2,7 +2,7 @@
 layout: page
 title: Group-level variability before illusory perception
 description: Characterizing individual variability before AV speech perception based on spectral and functional connectivity features
-img: bioRxiv_coverart.png
+img: assets/img/bioRxiv_coverart.png
 importance: 2
 category: neuroscience
 ---
