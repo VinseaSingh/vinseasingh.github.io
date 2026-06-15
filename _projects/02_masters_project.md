@@ -10,7 +10,7 @@ category: neuroscience
 In this preprint, we explored inter-individual and inter-trial differences in McGurk percept to probe the underlying brain dynamics before (prestimulus) stimulus presentation. Initially, based on our participants’ (n = 18) overall susceptibility to the McGurk effect, we categorized them into two groups: rare and frequent. Subsequently, we investigated the differences in their neuronal dynamics manifested in the oscillatory properties of the prestimulus activity, focusing on the power spectrum components (periodic oscillations and aperiodic components) and global coherence.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/bioRxiv_paper_schematics.jpg" title="schematics" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -26,10 +26,10 @@ We observed a lower aperiodic offset for the rare perceivers. We also found high
 (see <a href='https://www.biorxiv.org/content/10.1101/2022.01.20.477172v1.full'>the paper for more details</a>). 
 
 <div class="row">
-    <div class="col-sm mt-5 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/bioRxiv_paper_dist.jpg" title="power" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-6 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/bioRxiv_paper_coh.jpg" title="coherence" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
